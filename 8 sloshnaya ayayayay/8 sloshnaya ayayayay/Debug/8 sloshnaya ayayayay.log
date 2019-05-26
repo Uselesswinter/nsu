@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\g_vis\source\repos\8 sloshnaya ayayayay\8 sloshnaya ayayayay\source.cpp(96): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\g_vis\source\repos\8 sloshnaya ayayayay\8 sloshnaya ayayayay\source.cpp(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\g_vis\source\repos\8 sloshnaya ayayayay\8 sloshnaya ayayayay\source.cpp(98): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\g_vis\source\repos\8 sloshnaya ayayayay\8 sloshnaya ayayayay\source.cpp(116): warning C4129: : неизвестная escape-последовательность
+c:\users\g_vis\source\repos\8 sloshnaya ayayayay\8 sloshnaya ayayayay\source.cpp(138): warning C4129: S: неизвестная escape-последовательность
+  8 sloshnaya ayayayay.vcxproj -> C:\Users\g_vis\source\repos\8 sloshnaya ayayayay\Debug\8 sloshnaya ayayayay.exe

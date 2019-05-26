@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\g_vis\source\repos\4\4\source.cpp(26): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  c:\users\g_vis\source\repos\4\4\source.cpp(26): note: рекомендуется использовать "%lf" в строке форматирования
+c:\users\g_vis\source\repos\4\4\source.cpp(26): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "2" имеет тип "double *"
+  c:\users\g_vis\source\repos\4\4\source.cpp(26): note: рекомендуется использовать "%lf" в строке форматирования
+c:\users\g_vis\source\repos\4\4\source.cpp(40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  4.vcxproj -> C:\Users\g_vis\source\repos\4\Debug\4.exe
